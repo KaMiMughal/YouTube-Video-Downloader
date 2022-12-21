@@ -1,5 +1,5 @@
 # YouTube-Video-Downloader-PC
-pip install pyfiglet\n
+pip install pyfiglet
 pip install pytube
 cd YouTube-Video-Downloader
 python video_downloader.py
